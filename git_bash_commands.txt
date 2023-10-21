@@ -1,0 +1,18 @@
+Steps for the team to work with get repo.
+
+
+1. choose a folder on local computer to store the project file
+
+2. on git bash type <git clone https://github.com/AHISSE/ML-Project-Repo>
+
+3. on git bash type <cd ML-Project-Repo> to move into the cloned file
+
+4. on git bash type < git checkout -b "your name"> to switch to a new branch
+
+After working your own notebook follow these steps to push the changes to the repo.
+
+1. git add .
+
+2. git commit -m "concise details of what you changed/added"
+
+3. git push orifin "your name"
