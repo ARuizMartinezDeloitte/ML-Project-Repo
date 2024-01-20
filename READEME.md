@@ -1,5 +1,9 @@
 # Project Repo
 
+This Github Repo includes 3 notebooks with several types of machine learning models. 
+
+The final presentation is also included where the objective of the project is defined.
+
 This will be the readme for our project. Include every step in the data science process.
 
 https://github.com/AHISSE/ML-Project-Repo/blob/main/Final%20Presentation.pdf <------ link to presentation
